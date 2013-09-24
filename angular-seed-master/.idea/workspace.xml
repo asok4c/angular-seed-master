@@ -9,7 +9,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/app.js" changelist="c1b63fd6-3560-445f-9a75-bdedc8393f3b" time="1378961715449" ignored="false" />
     <file path="/EventDetails.html" changelist="c1b63fd6-3560-445f-9a75-bdedc8393f3b" time="1379888160687" ignored="false" />
-    <file path="/EventController.js" changelist="c1b63fd6-3560-445f-9a75-bdedc8393f3b" time="1379995658653" ignored="false" />
+    <file path="/EventController.js" changelist="c1b63fd6-3560-445f-9a75-bdedc8393f3b" time="1379998490679" ignored="false" />
     <file path="/StartUpController.js" changelist="c1b63fd6-3560-445f-9a75-bdedc8393f3b" time="1379108844819" ignored="false" />
     <file path="/a.dummy" changelist="c1b63fd6-3560-445f-9a75-bdedc8393f3b" time="1379995477836" ignored="false" />
     <file path="/app.css" changelist="c1b63fd6-3560-445f-9a75-bdedc8393f3b" time="1379819304950" ignored="false" />
@@ -17,7 +17,7 @@
     <file path="/filters.js" changelist="c1b63fd6-3560-445f-9a75-bdedc8393f3b" time="1379834369564" ignored="false" />
     <file path="/NewEvent.html" changelist="c1b63fd6-3560-445f-9a75-bdedc8393f3b" time="1379837883260" ignored="false" />
     <file path="/EditEventController.js" changelist="c1b63fd6-3560-445f-9a75-bdedc8393f3b" time="1379837967450" ignored="false" />
-    <file path="/EventData.js" changelist="c1b63fd6-3560-445f-9a75-bdedc8393f3b" time="1379997167847" ignored="false" />
+    <file path="/EventData.js" changelist="c1b63fd6-3560-445f-9a75-bdedc8393f3b" time="1379997811714" ignored="false" />
     <file path="/EditProfile.html" changelist="c1b63fd6-3560-445f-9a75-bdedc8393f3b" time="1379907896324" ignored="false" />
     <file path="/EditProfileController.js" changelist="c1b63fd6-3560-445f-9a75-bdedc8393f3b" time="1379891121960" ignored="false" />
     <file path="/GravatarUrlBuilder.js" changelist="c1b63fd6-3560-445f-9a75-bdedc8393f3b" time="1379908377883" ignored="false" />
@@ -83,19 +83,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EventController.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="EventController.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/js/controllers/EventController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="36" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0">
+            <state line="17" column="93" selection-start="888" selection-end="888" vertical-scroll-proportion="0.6296296">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EventData.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="EventData.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/services/EventData.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="270" selection-end="270" vertical-scroll-proportion="0.25925925">
+            <state line="17" column="22" selection-start="540" selection-end="540" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#0#157#0" expanded="false" />
               </folding>
@@ -127,8 +127,8 @@
         <option value="$PROJECT_DIR$/app/EditProfile.html" />
         <option value="$PROJECT_DIR$/app/js/services/GravatarUrlBuilder.js" />
         <option value="$PROJECT_DIR$/app/data/event/1.json" />
-        <option value="$PROJECT_DIR$/app/js/controllers/EventController.js" />
         <option value="$PROJECT_DIR$/app/js/services/EventData.js" />
+        <option value="$PROJECT_DIR$/app/js/controllers/EventController.js" />
       </list>
     </option>
   </component>
@@ -505,19 +505,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/controllers/EventController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="36" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/js/services/EventData.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="270" selection-end="270" vertical-scroll-proportion="0.25925925">
+        <state line="17" column="22" selection-start="540" selection-end="540" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#0#157#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/controllers/EventController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="93" selection-start="888" selection-end="888" vertical-scroll-proportion="0.6296296">
+          <folding />
         </state>
       </provider>
     </entry>
